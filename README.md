@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @SKAAP47
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SKAAP47/SKAAP47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in android open source development
+- 🌱 I’m currently learning all that i can around TERMUX
+- 💞️ I’m looking to collaborate on basic termux tool usage
